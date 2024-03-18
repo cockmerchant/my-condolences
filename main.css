@@ -1,4 +1,4 @@
-@import url(https://mentor404.github.io/anilist-css/files/background.css);
+@import files(background.css);
 @import url(https://mentor404.github.io/anilist-css/files/banner-remove.css);
 @import url(https://mentor404.github.io/anilist-css/files/navbar.css);
 @import url(https://mentor404.github.io/anilist-css/files/color-theme.css);
@@ -7,4 +7,4 @@
 @import url(https://mentor404.github.io/anilist-css/files/favourites.css);
 @import url(https://mentor404.github.io/anilist-css/files/feed.css);
 @import url(https://mentor404.github.io/anilist-css/files/footer.css);
-@import url(https://mentor404.github.io/anilist-css/files/top-nav.css);
+@import files(top-nav.css);
