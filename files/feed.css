@@ -27,7 +27,7 @@ margin-right: 0px !important;
 }
 
 .activity-feed > .activity-entry:not(.activity-message, .activity-text) .details{
-  max-width: 63.75%;
+  max-width: 85%;
   padding: 0px;
   transition: all 1s;
 }
