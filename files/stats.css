@@ -4,11 +4,11 @@
 
 /* stats */
 
-@media (max-width: 1540px){
+@media (max-width: 1155px){
     .stats-wrap {
       grid-template-columns: 1fr;
       grid-column-gap: 0;
-      gap: 28px;
+      gap: 21px;
     }
   }
   
